@@ -1,4 +1,4 @@
-# Hi 👋, VVD VASAN
+# Hi 👋, I'm VVD VASAN
 
 **Automobile Engineering Student | Aspiring Cloud Engineer**
 
