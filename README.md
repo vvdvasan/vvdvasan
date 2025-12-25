@@ -1,8 +1,8 @@
-# Hi 👋, I'm Vasan
+# Hi 👋, VVD VASAN
 
 **Automobile Engineering Student | Aspiring Cloud Engineer**
 
-Final-year student at Kumaraguru College of Technology, transitioning into cloud computing and cybersecurity through hands-on project development.
+Pre-final year student at Kumaraguru College of Technology, transitioning into cloud computing and cybersecurity through hands-on project development.
 
 ## 🛠️ Tech Stack
 
