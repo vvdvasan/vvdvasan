@@ -2,7 +2,7 @@
 
 **Automobile Engineering Student | Aspiring Cloud Engineer**
 
-Pre-final year student at Kumaraguru College of Technology, transitioning into cloud computing and cybersecurity through hands-on project development.
+Pre-final year student at Kumaraguru College of Technology.
 
 ## 🛠️ Tech Stack
 
