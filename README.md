@@ -26,4 +26,4 @@ Pre-final year student at Kumaraguru College of Technology.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vvd-vasan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danavasanv12@gmail.com)
 
-**Open to:** Cloud Engineering Internships | DevOps Roles | Cybersecurity Positionsc
+**Open to:** AIML internships
