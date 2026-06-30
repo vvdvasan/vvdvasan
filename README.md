@@ -1,10 +1,27 @@
-# Hi, I'm Danavasan V👋
+# Hi, I'm Danavasan 👋
 
-AI/ML Engineer building intelligent applications with Machine Learning, LLMs, and Cloud.
+**AI/ML Engineer** building intelligent applications with Machine Learning, LLMs, and Cloud.
 
-**Tech**
-Python • Scikit-learn • Pandas • FastAPI • Streamlit • React • Firebase • Amazon Chronos • Llama 3.3
+* 🎓 B.E. (Hons.), Kumaraguru College of Technology
+* 🤖 Interested in Generative AI, Time Series Forecasting & MLOps
+* 🌱 Currently building AI-powered applications
 
-Currently interested in Generative AI, Time Series Forecasting, and MLOps.
+### Tech
 
-📫 danavasanv12@gmail.com
+```text
+Python • JavaScript • Scikit-learn • Pandas • NumPy
+FastAPI • Streamlit • React.js
+Llama 3.3 • Amazon Chronos • Firebase • Google Cloud • Git
+```
+
+### Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vvdvasan&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvdvasan&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+### Connect
+
+* LinkedIn: https://linkedin.com/in/vvd-vasan
+* Email: [danavasanv12@gmail.com](mailto:danavasanv12@gmail.com)
