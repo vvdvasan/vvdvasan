@@ -1,8 +1,8 @@
 # Hi 👋, I'm VVD VASAN
 
-**Automobile Engineering Student | Aspiring Cloud Engineer**
+**Automobile Engineering Student | Aspiring AIML Engineer**
 
-Pre-final year student at Kumaraguru College of Technology.
+Final year student at Kumaraguru College of Technology.
 
 ## 🛠️ Tech Stack
 
