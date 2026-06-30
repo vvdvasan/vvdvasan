@@ -1,29 +1,38 @@
-# Hi 👋, I'm VVD VASAN
+# Hi, I'm Danavasan 👋
 
-**Automobile Engineering Student | Aspiring AIML Engineer**
+AI/ML Engineer passionate about building intelligent systems with Machine Learning, LLMs, and Cloud technologies.
 
-Final year student at Kumaraguru College of Technology.
+* 🎓 B.E. (Hons.) Automobile Engineering @ Kumaraguru College of Technology
+* 💼 AI/ML Intern @ Infosys Springboard
+* 💻 Software Developer Intern @ Forge Innovation
+* 🌱 Exploring Generative AI, Time Series Forecasting & MLOps
+* 📍 Coimbatore, India
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+```text
+Languages      Python • JavaScript
+AI/ML          Scikit-learn • Pandas • NumPy • Streamlit
+LLMs           Llama 3.3 • Amazon Chronos • Groq API
+Cloud          Firebase • Firestore • Google Cloud
+Tools          Git • FastAPI • React.js
+```
 
-## 🚀 Featured Project
+## Currently Working On
 
-**E-Commerce Competitor Tracker** - AI-powered price forecasting system achieving 99.62% accuracy using Chronos and Llama 3.3 70B. Built during Infosys Springboard Internship.
+* AI-powered applications
+* Time Series Forecasting
+* LLM-powered automation
+* End-to-end ML systems
 
-[📂 View Project](https://github.com/vvdvasan/infosys-competitor-tracker)
+## GitHub Stats
 
-## 📊 GitHub Stats
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vvdvasan&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvdvasan&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-![Vasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvdvasan&show_icons=true&theme=dark)
+## Connect
 
-## 🤝 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vvd-vasan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danavasanv12@gmail.com)
-
-**Open to:** AIML internships
+* 💼 LinkedIn: https://www.linkedin.com/in/vvd-vasan
+* 📧 [danavasanv12@gmail.com](mailto:danavasanv12@gmail.com)
