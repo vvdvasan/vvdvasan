@@ -10,5 +10,3 @@ React.js • Amazon Chronos • Llama 3.3 • Firebase • Git
 ```
 
 Currently building AI-powered applications and end-to-end ML systems.
-
-📫 **[danavasanv12@gmail.com](mailto:danavasanv12@gmail.com)**
